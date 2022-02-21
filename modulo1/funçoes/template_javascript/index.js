@@ -40,13 +40,15 @@ sobreMim()
 
 // (b)
 
-function paraMim( nome, idade, cidade, profissao ) {
 
-  const sergio = nome
-  const 45  = idade
-   const janauba = cidade
-  const tecnico = profissao
-  console.log("eu sou ${nome} tenho ,${idade} anos, moro em ${cidade} e sou ${profissao}" )
 
-}
- paraMim()
+
+
+const listaDeInteresse = ["carro", "casa", "dinhero"]
+const meuInteresse = listaDeInteresse[0]
+console.log(meuInteresse)
+
+
+
+
+
